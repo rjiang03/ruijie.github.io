@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ruijie](/images/Ruijie.png){: .align-right width='300px'}
+![Ruijie](/images/Ruijie.png){: .align-right width='50px'}
 
 👨‍🎓 I am a final year PhD candidate!
 
