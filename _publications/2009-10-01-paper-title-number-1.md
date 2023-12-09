@@ -11,5 +11,3 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 Check our latest work! We present a unified optimal geometry for Supervised and Unsupervised Contrastive learning: The neural collapse! We proved it with a extremly simple way. Beyond that, we also discussed the connection between hard negative sampling and dimensional collapse.
 
 [Download paper here](https://arxiv.org/abs/2311.05139)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
