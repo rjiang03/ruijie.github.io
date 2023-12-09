@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD candidate!
+👨‍🎓 I am a final year PhD candidate!
 
-My reasearch interested in Theory-Driven Algorithm and its applications on bridging vision and other data (language, audio, parametric keys) modalities.
+💻 My research is focused on Theory-Driven Algorithms and their applications in bridging vision with other data modalities (language, audio, parametric keys).
 
-I am current working on my PhD thesis in the filed of Self-supervised representation learning.
-
+📖 I am currently working on my PhD thesis in the field of Self-supervised Representation Learning.
 
 
 A data-driven personal website
