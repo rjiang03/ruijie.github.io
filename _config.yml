@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruijie Jiang"
-  avatar           : ""Ruijie.png""
+  avatar           : "Ruijie.png"
   bio              : "Machine learning, Representation Learning, Multimodal learning"
   location         : "Boston, MA"
   employer         : "Tufts University"
