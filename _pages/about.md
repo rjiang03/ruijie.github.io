@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ruijie](/images/Ruijie.png){: .align-right width='50px'}
+![Ruijie](Ruijie.png){: .align-right width='50px'}
 👨‍🎓 I am a final year PhD candidate!
 
 💻 My research is focused on Theory-Driven Algorithms and their applications in bridging vision with other data modalities (language, audio, parametric keys).
