@@ -46,12 +46,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ======
-* Contributed to several prestigious conference and journal publications in the field of machine learning and data science.
+* Served as Academic chair in Tufts University Graduate Student Council in 2020-2021.
