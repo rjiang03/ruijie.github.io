@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "👋 Hello there, I'm Ruijie! Nice to meet you!"
+excerpt: "Publications"
+author_profile: false
+redirect_from: 
+  - /publication/
+  - /publication.html
+---
+
 # Publications
 ## [Paper Title Number 3](http://academicpages.github.io/files/paper3.pdf)
 Published in DEC 2, 2023
