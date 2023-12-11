@@ -10,7 +10,7 @@ redirect_from:
 ## [Automatic coding of students' writing via Contrastive Representation Learning in the Wasserstein space](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:u-x6o8ySG0sC)
 R Jiang, J Gouvea, D Hammer, E Miller, S Aeron
 
-arXiv preprint arXiv:2011.13384	7	2020
+arXiv preprint arXiv:_2011.13384	7	2020_
 
 ## [Measure estimation in the barycentric coding model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:IjCSPb-OGe4C)
 M Werenski, R Jiang, A Tasissa, S Aeron, JM Murphy
