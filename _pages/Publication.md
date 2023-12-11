@@ -1,11 +1,12 @@
 ---
-permalink: /publication/
 title: "Publications"
-excerpt: "Publications"
+permalink: /publication/
+layout: archive
 author_profile: false
 redirect_from: 
   - /publication.html
 ---
+
 collect Publications in one page
 
 ## [Paper Title Number 3](http://academicpages.github.io/files/paper3.pdf)
