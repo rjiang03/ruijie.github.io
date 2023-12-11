@@ -1,15 +1,15 @@
 ---
 permalink: /publication/
-title: "👋 Hello there, I'm Ruijie! Nice to meet you!"
+title: "Publications"
 excerpt: "Publications"
 author_profile: false
 redirect_from: 
   - /publication.html
 ---
+collect Publications in one page
 
-# Publications
 ## [Paper Title Number 3](http://academicpages.github.io/files/paper3.pdf)
-Published in DEC 2, 2023
+test in DEC 2, 2023
 
 This paper is about the number 3. The number 4 is left for future work.
 
@@ -26,3 +26,16 @@ Published in Journal 1, 2010
 This paper is about the number 2. The number 3 is left for future work.
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." Journal 1. 1(2). http://academicpages.github.io/files/paper2.pdf
+
+## test
+
+青玉案·元夕 --- _辛弃疾_
+***
+东风夜放花千树，更吹落，星如雨。
+宝马雕车香满路。
+
+飞行速度，玉壶光转，一夜鱼龙舞。
+
+蛾儿雪柳黄金缕，笑语盈盈暗香去。
+
+众里寻他千百度，蓦然回首，那人却在灯火阑珊处。
