@@ -17,11 +17,8 @@ Education
 Work experience
 ======
 * Data Scientist Intern at Apple (May – Dec 2023)
-  * LLM-database: Semantic Search & Summarization
-  * Multimodal Learning (image-parametric keys)
-  * Distribution Shift Detection (millions sample level)
- 
-    
+  * Display foundation model: vision, parametric key, and language.
+
 * Applied Scientist Intern at WYZE Labs(May – Aug 2022)
   * Multimodal Image Representation Learning via unlabeled video with latent regularization!
 
