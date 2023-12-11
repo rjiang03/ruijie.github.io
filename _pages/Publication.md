@@ -7,37 +7,52 @@ redirect_from:
   - /publication.html
 ---
 
-collect Publications in one page
+## [Automatic coding of students' writing via Contrastive Representation Learning in the Wasserstein space](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:u-x6o8ySG0sC)
+R Jiang, J Gouvea, D Hammer, E Miller, S Aeron
 
-## [Paper Title Number 3](http://academicpages.github.io/files/paper3.pdf)
-test in DEC 2, 2023
+arXiv preprint arXiv:2011.13384	7	2020
 
-This paper is about the number 3. The number 4 is left for future work.
+## [Measure estimation in the barycentric coding model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:IjCSPb-OGe4C)
+M Werenski, R Jiang, A Tasissa, S Aeron, JM Murphy
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." Journal 1. 1(3). http://academicpages.github.io/files/paper3.pdf
+International Conference on Machine Learning, 23781-23803	6	2022
 
-## [On neural and dimensional collapse in supervised and unsupervised contrastive learning with hard negative sampling](/)
-Published in , 2023
+## [Supervised contrastive learning with hard negative samples](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:zYLM7Y9cAGgC)
+R Jiang, T Nguyen, P Ishwar, S Aeron
 
-Check our latest theoretical work! We present a unified optimal geometry for Supervised and Unsupervised Contrastive learning: The neural collapse! We proved it with a extremly simple way. Beyond that, we also discussed the connection between hard negative sampling and dimensional collapse.
+arXiv preprint arXiv:2209.00078	5	2022
 
-## [Paper Title Number 2](/)
-Published in Journal 1, 2010
+## [Hard Negative Sampling via Regularized Optimal Transport for Contrastive Representation Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:eQOLeE2rZwMC)
+R Jiang, P Ishwar, S Aeron
 
-This paper is about the number 2. The number 3 is left for future work.
+International Joint Conference on Neural Networks	1	2023
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." Journal 1. 1(2). http://academicpages.github.io/files/paper2.pdf
+## [Scalable Machine Learning Approach to Classifying Transportation Noise at Two Urban Sites in Greater Boston, Massachusetts](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:9yKSN-GCB0IC)
+T Wang, R Jiang, YLE Lin, K Monahan, D Leaffer, S Doroff, B Tracey
 
-## test
+INTER-NOISE and NOISE-CON Congress and Conference Proceedings 263 (1), 4962-4974	1	2021
 
-青玉案·元夕 --- _辛弃疾_
-<hr>
+## [On neural and dimensional collapse in supervised and unsupervised contrastive learning with hard negative sampling](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:ufrVoPGSRksC)
+R Jiang, T Nguyen, S Aeron, P Ishwar
 
-东风夜放花千树，更吹落，星如雨。
-宝马雕车香满路。
+arXiv preprint arXiv:2311.05139		2023
 
-飞行速度，玉壶光转，一夜鱼龙舞。
+## [Accuracy versus time frontiers of semi-supervised and self-supervised learning on medical images](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:WF5omc3nYNoC)
+Z Huang, R Jiang, S Aeron, MC Hughes
 
-蛾儿雪柳黄金缕，笑语盈盈暗香去。
+arXiv preprint arXiv:2307.08919		2023
 
-众里寻他千百度，蓦然回首，那人却在灯火阑珊处。
+## [Analyzing Students’ Written Arguments by Combining Qualitative and Computational Approaches](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:YsMSGLbcyi4C)
+J Gouvea, R Jiang, S Aeron
+
+Proceedings of the 15th International Conference on Computer-Supported …		2022
+
+## [Interpretable contrastive word mover's embedding](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:qjMakFHDy7sC)
+R Jiang, J Gouvea, E Miller, D Hammer, S Aeron
+
+Optimal Transport and Machine Learning (OTML) workshop, NeurIPS 2021.		2021
+
+## [Machine learning analysis of student frames in open-structure lab courses](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dXgr0nsAAAAJ&citation_for_view=dXgr0nsAAAAJ:d1gkVwhDpl0C)
+R Fussell, R Jiang, S Aeron, N Holmes
+
+APS April Meeting Abstracts 2021, Z06. 003		2021
