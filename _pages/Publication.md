@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /publication/
 title: "👋 Hello there, I'm Ruijie! Nice to meet you!"
 excerpt: "Publications"
 author_profile: false
 redirect_from: 
-  - /publication/
   - /publication.html
 ---
 
