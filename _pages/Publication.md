@@ -2,7 +2,7 @@
 title: "Publications"
 permalink: /publication/
 layout: archive
-author_profile: false
+author_profile: true
 redirect_from: 
   - /publication.html
 ---
@@ -31,7 +31,8 @@ Recommended citation: Your Name, You. (2010). "Paper Title Number 2." Journal 1.
 ## test
 
 青玉案·元夕 --- _辛弃疾_
-***
+<hr>
+
 东风夜放花千树，更吹落，星如雨。
 宝马雕车香满路。
 
