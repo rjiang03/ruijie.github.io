@@ -17,7 +17,8 @@ Education
 Work experience
 ======
 * Data Scientist Intern at Apple (May – Dec 2023)
-  * Display foundation model: vision, parametric key, and language.
+  * DisplayGEN: A foundation model for display quality (vision, language, and parametric key).
+  * Display-AJAX: LLM-Agent
 
 * Applied Scientist Intern at WYZE Labs(May – Aug 2022)
   * Multimodal Image Representation Learning via unlabeled video with latent regularization!
